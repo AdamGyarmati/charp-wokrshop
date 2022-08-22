@@ -1,0 +1,15 @@
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/bin/Debug/net6.0/WorkShop
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/bin/Debug/net6.0/WorkShop.deps.json
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/bin/Debug/net6.0/WorkShop.runtimeconfig.json
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/bin/Debug/net6.0/WorkShop.dll
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/bin/Debug/net6.0/WorkShop.pdb
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.csproj.AssemblyReference.cache
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.AssemblyInfoInputs.cache
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.AssemblyInfo.cs
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.csproj.CoreCompileInputs.cache
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.dll
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/refint/WorkShop.dll
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.pdb
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/WorkShop.genruntimeconfig.cache
+/Users/gyarmatiadam/Projects/WorkShop/WorkShop/obj/Debug/net6.0/ref/WorkShop.dll
